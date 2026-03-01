@@ -1,1 +1,1 @@
-# sigma_smart_goal_data_modeling
+# Sigma Smart Goals Notebooks
